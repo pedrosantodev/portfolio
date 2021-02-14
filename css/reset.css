@@ -1,0 +1,7 @@
+/* 
+serve para retirar o comportamento padrão do browser 
+*/
+
+body {
+    margin: 0;
+}
